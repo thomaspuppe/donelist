@@ -1,4 +1,5 @@
 app = "donelist-350b"
+primary_region = "ams"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
